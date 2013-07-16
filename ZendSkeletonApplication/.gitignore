@@ -1,4 +1,8 @@
-nbproject
+nbproject/*
+build-impl.xml
+nbproject/private/*
+project.properties
+project.xml
 ._*
 .~lock.*
 .buildpath
